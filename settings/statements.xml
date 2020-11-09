@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+// 
+// This is the place for your statements. The maximum 
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special 
+// characters, make sure, that you save this XML-file 
+// as an UTF-8-document. White-space inbetween the 
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and 
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node 
+// consisting out of an opening and a closing tag. The 
+// statement itself goes between this two tags. 
+// The unique statement id is saved as an 
+// attribute called 'id'. We have three exmaple 
+// statements and we need therefore three statement-
+// nodes and one parent-node. 
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+// 
+// ===================================================
+// 
+-->
+
+<statements version="1.0" htmlParse="false">
+  <statement id="1">Beiting er viktig for naturmangfoldet.</statement>
+  <statement id="2">Det er greit med tap av dyr på beite hvis det redder rovdyr </statement>
+  <statement id="3">Landbruket vil spille en viktig rolle for biomangfoldet fremover</statement>
+  <statement id="4">Lokale perspektiver på ressursforvaltning og arealbruk bør verdsettes mer av myndighetene</statement>
+  <statement id="5">Kommunens arbeid sikrer lokal matproduksjon</statement>
+  <statement id="6">Myndighetene er trussel mot lokal utvikling</statement>
+  <statement id="7">Press på arealer er en trussel mot beitenæringa og fiskeri</statement>
+  <statement id="8">Oppdrett er en viktig økonomisk aktivitet og derfor må negative konsekvenser aksepteres</statement>
+  <statement id="9">Utmarka må prioriteres for beiting i fremtiden</statement>
+  <statement id="10">Det er greit med store inngrep (oppdrett, hytter, vindkraft osv)  i landskapet hvis det sikrer arbeidsplasser her. </statement>
+  <statement id="11">Det er viktig å bevare kulturlandskapet</statement>
+  <statement id="12">Klimaendringer truer lokal matproduksjon og lokale tradisjoner</statement>
+  <statement id="13">Det er det samme for meg hvordan landskapet ser ut i fremtiden</statement>
+  <statement id="14">Lokal mat skaper identitet og tilhørighet</statement>
+  <statement id="15">Jeg foretrekker å spise mat som jeg selv har høstet (gjennom fiske, fangst, sanking osv)</statement>
+  <statement id="16">Det er i byen at "det gode liv" leves fremover</statement>
+  <statement id="17">Tradisjonell kunnskap om lokal ressursbruk er ikke lenger viktig. </statement>
+  <statement id="18">Utvikling og vekst er viktigere en kulturlandskapets egenverdi</statement>
+  <statement id="19">Turisme er en trussel for primærnæringene</statement>
+  <statement id="20">Det er greit hvis kystfiskerne blir borte i fremtiden</statement>
+  <statement id="21">Det er mulig å både bevare rovdyr og samtidig ivareta beitenæringene</statement>
+  <statement id="22">Det er greit at tradisjonelt fiske forsvinner hvis vi har andre aktiviteter vi kan leve av langs kysten</statement>
+  <statement id="23">Økonomisk verdi skal veie tyngre enn kulturelle tradisjoner som matauk (bær, sopp, fiske, jakt)</statement>
+</statements>
